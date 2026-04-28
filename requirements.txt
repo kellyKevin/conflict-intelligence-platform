@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+prophet
+torch
+spacy
+transformers
+dowhy
+econml
+matplotlib
+httpx
+pytest
